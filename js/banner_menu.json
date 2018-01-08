@@ -1,0 +1,234 @@
+{
+	"手机 电话卡" : [
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/xm6_80.png?width=40&height=40",
+		"proName" : "小米6",
+		"proSrc" : "https://www.mi.com/mi6/",
+		"title" : "选购"
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/xm5S-80.jpg?width=40&height=40",
+		"proName" : "小米5S",
+		"proSrc" : "https://www.mi.com/mi5s",
+		"title" : "选购"
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/80pc-5x.png?width=40&height=40",
+		"proName" : "小米5X",
+		"proSrc" : "https://www.mi.com/mi5x/",
+		"title" : "选购"
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/xm6_80.png?width=40&height=40",
+		"proName" : "小米6",
+		"proSrc" : "https://www.mi.com/mi6/",
+		"title" : "选购"
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/xm5S-80.jpg?width=40&height=40",
+		"proName" : "小米5S",
+		"proSrc" : "https://www.mi.com/mi5s",
+		"title" : "选购"
+	},
+	{
+		"picSrc": "https://i1.mifile.cn/f/i/g/2015/80pc-5x.png?width=40&height=40",
+		"proName": "小米5X",
+		"proSrc": "https://www.mi.com/mi5x/",
+		"title": "选购"
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/xm5S-plus-80.jpg?width=40&height=40",
+		"proName" : "小米5Splus",
+		"proSrc" : "https://www.mi.com/mi5splus/",
+		"title" : "选购"
+	}],
+	"笔记本 平板" : [
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/bijiben80.jpg?width=40&height=40",
+		"proName" : "笔记本",
+		"proSrc" : "https://www.mi.com/mibookair-12/",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/ymjp80.jpg?width=40&height=40",
+		"proName" : "机械键盘",
+		"proSrc" : "https://www.mi.com/keyboard/",
+		"title" : "选购"
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/bijiben80.jpg?width=40&height=40",
+		"proName" : "笔记本",
+		"phoneSrc" : "https://www.mi.com/mibookair/",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/shubiao80.jpg?width=40&height=40",
+		"proName" : "便携鼠标",
+		"proSrc" : "https://www.mi.com/mouse/",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/mipad3_80.jpg?width=40&height=40",
+		"proName" : "小米平板3",
+		"proSrc" : "https://www.mi.com/mipad3/",
+		"title" : "选购"
+	}],
+	"电视 盒子" : [
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/80xmds_49.jpg?width=40&height=40",
+		"proName" : "小米电视4 55英寸",
+		"proSrc" : "https://www.mi.com/mitv4/49/",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/xp80_55.jpg?width=40&height=40",
+		"proName" : "小米电视4A 59英寸",
+		"phoneSrc" : "https://www.mi.com/mitv4A/55/",
+		"title" : "选购"
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/80xmds_55.jpg?width=40&height=40",
+		"proName" : "小米电视4",
+		"proSrc" : "https://www.mi.com/mitv4/55/",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/xp80_65.jpg?width=40&height=40",
+		"proName" : "小米电视4A",
+		"proSrc" : "https://www.mi.com/mitv4A/65/",
+		"title" : ""
+	}],
+	"路由器 智能硬件" : [
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/phcplus80.jpg?width=40&height=40",
+		"proName" : "小米平衡车",
+		"proSrc" : "https://search.mi.com/search_%E5%B9%B3%E8%A1%A1%E8%BD%A6",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/czjhq80.jpg?width=40&height=40",
+		"proName" : "空气净化器",
+		"phoneSrc" : "https://www.mi.com/carair/",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/doodle/jiqiren.jpg?width=40&height=40",
+		"proName" : "手环",
+		"proSrc" : "https://list.mi.com/174",
+		"title" : ""
+	}],
+	"移动电源 电池 插线板" : [
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/dianyuan280.jpg?width=40&height=40",
+		"proName" : "小米移动电源",
+		"proSrc" : "https://www.mi.com/dianyuan/",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/15/goods/sidebar/7Battery1.jpg?width=40&height=40",
+		"proName" : "小米彩虹电池",
+		"phoneSrc" : "https://item.mi.com/1155000010.html",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/c1xb343.jpg?width=40&height=40",
+		"proName" : "插线板",
+		"proSrc" : "https://list.mi.com/125",
+		"title" : ""
+	}
+	],
+	"耳机 音箱" : [
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/toudai80.jpg?width=40&height=40",
+		"proName" : "小米头戴式耳机",
+		"proSrc" : "https://www.mi.com/headphone/",
+		"title" : "选购"
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/huosai1.jpg?width=40&height=40",
+		"proName" : "小米活塞耳机",
+		"phoneSrc" : "https://www.mi.com/huosai3/",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/15/goods/sidebar/pocketaudio.png?width=40&height=40",
+		"proName" : "小米蓝牙音箱",
+		"proSrc" : "https://www.mi.com/pocketaudio/",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/mituyinx80.jpg?width=40&height=40",
+		"proName" : "小米米兔音箱",
+		"proSrc" : "https://item.mi.com/1163100008.html",
+		"title" : ""
+	}
+	],
+	"保护套 贴膜" : [
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/15/goods/sidebar/tiemo.jpg?width=40&height=40",
+		"proName" : "贴膜",
+		"proSrc" : "https://list.mi.com/9",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/15/goods/sidebar/baohu.jpg?width=40&height=40",
+		"proName" : "保护套",
+		"proSrc" : "https://list.mi.com/8",
+		"title" : "选购"
+	}
+	],
+	"线材 支架 存储卡" : [
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/15/goods/sidebar/xiancai.jpg?width=40&height=40",
+		"proName" : "线材",
+		"proSrc" : "https://list.mi.com/16",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/15/goods/sidebar/zipaigan.jpg?width=40&height=40",
+		"proName" : "自拍杆",
+		"proSrc" : "https://search.mi.com/search_%E8%87%AA%E6%8B%8D%E6%9D%86",
+		"title" : ""
+	}
+	],
+	"箱包 服饰 鞋 眼镜" : [
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/xiangbao-80.jpg?width=40&height=40",
+		"proName" : "90分箱包",
+		"proSrc" : "https://list.mi.com/23",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/15/goods/sidebar/lvxingxiang.jpg?width=40&height=40",
+		"proName" : "旅行箱",
+		"proSrc" : "https://search.mi.com/search_%E6%97%85%E8%A1%8C%E7%AE%B1",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/huise2-80.jpg?width=40&height=40",
+		"proName" : "服饰",
+		"proSrc" : "https://list.mi.com/22",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/15/goods/sidebar/lvxingxiang.jpg?width=40&height=40",
+		"proName" : "运动鞋 板鞋",
+		"proSrc" : "https://search.mi.com/search_%E8%BF%90%E5%8A%A8%E9%9E%8B",
+		"title" : ""
+	}
+	],
+	"米兔 生活周边" : [
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/g/2015/cn-index/mitu-80.jpg?width=40&height=40",
+		"proName" : "米兔玩偶",
+		"proSrc" : "http://mitu.mi.com/",
+		"title" : ""
+	},
+	{
+		"picSrc" : "https://i1.mifile.cn/f/i/15/goods/sidebar/zhoubian1.jpg?width=40&height=40",
+		"proName" : "生活周边",
+		"proSrc" : "https://list.mi.com/24",
+		"title" : ""
+	}
+	]
+}

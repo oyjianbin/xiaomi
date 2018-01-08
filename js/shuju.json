@@ -1,0 +1,157 @@
+{
+  "小米手机": [
+    {
+      "img" : "https://i1.mifile.cn/f/i/g/2015/cn-index/xm6-320.png",
+      "name": "小米6",
+      "money": "2499起"
+    },
+    {
+      "img" : "https://i1.mifile.cn/f/i/g/2015/cn-index/max2_toubu.png",
+      "name": "小米Max2",
+      "money": "2499起"
+    },
+    {
+      "img" : "https://i1.mifile.cn/f/i/g/2015/5x-2!160x110.jpg",
+      "name": "小米5x",
+      "money": "2499起"
+    },
+    {
+      "img" : "https://i1.mifile.cn/f/i/g/2015/cn-index/xm6-320.png",
+      "name": "小米Note2",
+      "money": "2499起"
+    },
+    {
+      "img" : "https://i1.mifile.cn/f/i/g/2015/xiaomiNOTE2-320-220!160x110.jpg",
+      "name": "小米MIx",
+      "money": "2499起"
+    },
+    {
+      "img" : "https://i1.mifile.cn/f/i/g/2015/MIX-320-220!160x110.jpg",
+      "name": "小米5s",
+      "money": "2499起"
+    },
+    {
+      "img" : "https://i1.mifile.cn/f/i/g/2015/cn-index/5s-12!160x110.jpg",
+      "name": "小米5",
+      "money": "2499起"
+    }
+
+  ],
+  "红米": [
+    {
+      "img" : "https://i1.mifile.cn/f/i/g/2015/cn-index/xm6-320.png",
+      "name": "小米6",
+      "money": "2499起"
+    },
+    {
+      "img" : "https://i1.mifile.cn/f/i/g/2015/cn-index/max2_toubu.png",
+      "name": "小米6",
+      "money": "2499起"
+    },
+    {
+      "img" : "https://i1.mifile.cn/f/i/g/2015/5x-2!160x110.jpg",
+      "name": "小米6",
+      "money": "2499起"
+    }
+  ],
+  "平板 笔记本":[
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/mipad3_320.png",
+      "name": "小米平板364 GB",
+      "money": "1499元"
+    },
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/video/bijiben32012.5!160x110.jpg",
+      "name": "小米平板364 GB",
+      "money": "1499元"
+    },
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/bijiben320!160x110.jpg",
+      "name": "小米平板364 GB",
+      "money": "1499元"
+    }
+  ],
+  "电视":[
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/xmds_49.png",
+      "name": "小米电视4.5英寸",
+      "money": "3299元"
+    },
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/xmds_55.png",
+      "name": "小米电视4.6英寸",
+      "money": "3999元"
+    },
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/dianshi465.png",
+      "name": "小米电视4.9英寸",
+      "money": "9999元"
+    },
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/320_43.png",
+      "name": "小米电视4.2英寸",
+      "money": "3299元"
+    },
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/320_49.png",
+      "name": "小米电视4.6英寸",
+      "money": "3999元"
+    },
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/70dianshi.png",
+      "name": "小米电视4.55英寸",
+      "money": "4999元"
+    }
+  ],
+  "盒子 影音":[
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/mihezi.png",
+      "name": "小米盒子3c",
+      "money": "299元"
+    },
+    {
+      "img": "https://i1.mifile.cn/f/i/15/goods/nav/hezi3s!160x110.jpg",
+      "name": "小米盒子3c增强版",
+      "money": "399元"
+    },
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/320x220.png",
+      "name": "小米家庭影院",
+      "money": "1999元"
+    }
+  ],
+  "路由器":[
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/3G.png",
+      "name": "小米路由器3G",
+      "money": "499元"
+    },
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/xmlyq3.png",
+      "name": "小米路由器3c",
+      "money": "299元"
+    },
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/dlm01.png",
+      "name": "小米路由器",
+      "money": "199元"
+    }
+  ],
+  "智能硬件":[
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/123321!160x110.jpg",
+      "name": "小米无人机",
+      "money": "2999元"
+    },
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/saodijiqiren320-220!160x110.jpg",
+      "name": "小米智能扫地机器人",
+      "money": "1699元"
+    },
+    {
+      "img": "https://i1.mifile.cn/f/i/g/2015/cn-index/dfb!160x110.jpg",
+      "name": "小米电饭煲",
+      "money": "999元"
+    }
+  ]
+}

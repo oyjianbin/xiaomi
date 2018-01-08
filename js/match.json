@@ -1,0 +1,155 @@
+{
+  "热门" : [
+    {
+      "discount": "享9折",
+      "picSrc": "https://i2.mifile.cn/a1/pms_1476674302.67179007.jpg?width=150&height=150",
+      "productName": "小米运动蓝牙耳机",
+      "productSrc" : "https://item.mi.com/1163900023.html"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i2.mifile.cn/a1/pms_1482816047.72829695.jpg?width=150&height=150",
+      "productName": "20000MAh小米移动电源2",
+      "productSrc" : "https://item.mi.com/1164900027.html"
+
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i2.mifile.cn/a1/pms_1481269289.59498154.jpg?width=150&height=150",
+      "productName": "小米移动电源1000MAh高配版",
+      "productSrc" : "https://item.mi.com/1164900021.html"
+
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i2.mifile.cn/a1/pms_1482321199.12589253.jpg?width=150&height=150",
+      "productName": "小米活塞耳机  清新版",
+      "productSrc" : "https://item.mi.com/1165100001.html"
+
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i2.mifile.cn/a1/pms_1493189048.87486734.jpg?width=150&height=150",
+      "productName": "小米网络音箱",
+      "productSrc" : "https://item.mi.com/1165200042.html"
+
+    },
+    {
+      "discount": "享9.4折",
+      "picSrc": "https://i2.mifile.cn/a1/pms_1478510064.36397738.jpg?width=150&height=150",
+      "productName": "小米蓝牙耳机青春版",
+      "productSrc" : "https://item.mi.com/1163700019.html"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i2.mifile.cn/a1/pms_1478248721.42297795.jpg?width=150&height=150",
+      "productName": "小米圈铁耳机PRO",
+      "productSrc" : "https://item.mi.com/1164300015.html"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i2.mifile.cn/a1/T1F5K_BjVv1RXrhCrK.jpg?width=80&height=80",
+      "productSrc" : "https://item.mi.com/1154300036.html"
+    }
+  ],
+  "耳机音箱" : [
+    {
+      "discount": "享9折",
+      "picSrc": "https://i1.mifile.cn/a1/pms_1482301662.61336109!220x220.jpg",
+      "productName": "小米头戴式耳机",
+      "productSrc" : "https://www.mi.com/headphone2/"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i1.mifile.cn/a1/T1SkV_BCd_1RXrhCrK!220x220.jpg",
+      "productName": "小米胶囊耳机",
+      "productSrc" : "https://item.mi.com/1161800009.html"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i1.mifile.cn/a4/302f2608-655a-489c-a0c5-a3b9172defd1",
+      "productName": "小米圈铁耳机",
+      "productSrc" : "https://www.mi.com/earphonepro/"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i1.mifile.cn/a1/T1Tfd_BjAv1RXrhCrK!220x220.jpg",
+      "productName": "小米随身蓝牙音箱",
+      "productSrc" : "https://www.mi.com/littleaudio/"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i1.mifile.cn/a1/pms_1490865582.0815024!220x220.jpg",
+      "productName": "小米小钢炮蓝牙音箱",
+      "productSrc" : "https://www.mi.com/yinxiang/"
+    },
+    {
+      "discount": "享9.4折",
+      "picSrc": "https://i1.mifile.cn/a1/pms_1470619266.15986000!220x220.jpg",
+      "productName": "小米方盒子蓝牙音箱",
+      "productSrc" : "https://www.mi.com/bluetooth-speaker/"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i1.mifile.cn/a1/T1MDK_B_YT1RXrhCrK!220x220.jpg",
+      "productName": "小米米兔音箱",
+      "productSrc" : "https://item.mi.com/1163100008.html"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i1.mifile.cn/a1/T1MDK_B_YT1RXrhCrK!220x220.jpg",
+      "productName": "小米蓝牙音箱",
+      "productSrc" : "https://www.mi.com/pocketaudio/"
+    }
+  ],
+  "电源" : [
+    {
+      "discount": "享9折",
+      "picSrc": "https://i1.mifile.cn/a1/pms_1481273468.72564539!220x220.jpg",
+      "productName": "小米移动电源",
+      "productSrc" : "https://www.mi.com/batterytwins/"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i1.mifile.cn/a4/xmad_14976806072664_UVAtQ.png",
+      "productName": "20000MAh小米移动电源2",
+      "productSrc" : "https://item.mi.com/1164900027.html"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i1.mifile.cn/a1/T1pZbvBTET1RXrhCrK!220x220.jpg",
+      "productName": "小米移动电源1000MAh高配版",
+      "productSrc" : "https://www.mi.com/dianyuan5000/"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i1.mifile.cn/a1/pms_1482110626.95581660!220x220.jpg",
+      "productName": "20000MAh小米移动电源2",
+      "productSrc" : "https://www.mi.com/battery20000/"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i1.mifile.cn/a1/pms_1476688190.21955893!220x220.jpg",
+      "productName": "10000MAh小米移动电源2",
+      "productSrc" : "https://www.mi.com/battery2/"
+    },
+    {
+      "discount": "享9.4折",
+      "picSrc": "https://i1.mifile.cn/a1/pms_1478070969.5786053!220x220.jpg",
+      "productName": "小米二合一数据线",
+      "productSrc" : "https://item.mi.com/1164400032.html"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i1.mifile.cn/a1/pms_1469410847.29693876!220x220.jpg",
+      "productName": "小米充电套装",
+      "productSrc" : "https://item.mi.com/1162900044.html"
+    },
+    {
+      "discount": "",
+      "picSrc": "https://i1.mifile.cn/a4/T13mDQBjCT1RXrhCrK.jpg",
+      "productName": "小米智能插....",
+      "productSrc" : "https://www.mi.com/chaxianban2/"
+    }
+  ]
+}

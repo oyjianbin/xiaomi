@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>小米商城</title>
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/xiaomi.css">
+    <script src=../js/jquery-3.2.1.js></script>
+    <script src="../js/my_ajax.js"></script>
+    <script src="../js/xiaomi.js"></script>
+</head>
+<body>
+<!--头部-->
+<header>
+    <div id="head">
+    <ul>
+        <li><a href="#">小米商城</a></li>
+        <li><a href="#">MIUI</a></li>
+        <li><a href="#">米聊</a></li>
+        <li><a href="#">游戏</a></li>
+        <li><a href="#">多看阅读</a></li>
+        <li><a href="#">云服务</a></li>
+        <li><a href="#">金融</a></li>
+        <li><a href="#">米币</a></li>
+        <li><a href="#">小米商城手机版</a></li>
+        <li><a href="#">问题反馈</a></li>
+        <li><a href="#">Selsect Region</a></li>
+    </ul>
+    <p>
+        <a href="#">购物车(0)</a>
+        <a href="#">消息通知</a>
+        <a href="#">注册</a>
+        <a href="#">登录</a>
+    </p>
+    </div>
+    <div id="gw">购物车没有商品，赶紧选购吧 ！</div>
+</header>
+
+<!--导航-->
+<nav>
+    <h1><a href="#">小米</a></h1>
+    <div id="qq">
+        <a href="#" class="in">小米手机</a>
+        <a href="#" class="in">红米</a>
+        <a href="#" class="in">平板 笔记本</a>
+        <a href="#" class="in">电视</a>
+        <a href="#" class="in">盒子 影音</a>
+        <a href="#" class="in">路由器</a>
+        <a href="#" class="in">智能硬件</a>
+        <a href="#" class="yc">服务</a>
+        <a href="#" class="yc">社区</a>
+        <!--添加动画的下拉菜单-->
+        <div id="dh"></div>
+    </div>
+    <input type="text" name="" placeholder="红米Note 5A 小米Max2">
+    <div class="bg"><a href="#"><img src="../images/sousuo.gif" alt=""></a></div>
+</nav>
+
+<!--添加搜索框的下拉菜单-->
+<div id="search"></div>
+<!--广告条-->
+<div id="banner">
+    <a href="#"><img src="../images/1.jpg" alt=""></a>
+    <div id="bt">
+        <span>&gt;</span>
+        <span>&lt;</span>
+    </div>
+    <div id="sp">
+        <span class="s"></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <ul>
+        <li class="xl"><a href="#">手机 电话卡<span>&gt;</span></a></li>
+        <li class="xl"><a href="#">笔记本 平板<span>&gt;</span></a></li>
+        <li class="xl"><a href="#">电视 盒子<span>&gt;</span></a></li>
+        <li class="xl"><a href="#">路由器 智能硬件<span>&gt;</span></a></li>
+        <li class="xl"><a href="#">移动电源 电池 插线板<span>&gt;</span></a></li>
+        <li class="xl"><a href="#">耳机 音箱<span>&gt;</span></a></li>
+        <li class="xl"><a href="#">保护套 贴膜<span>&gt;</span></a></li>
+        <li class="xl"><a href="#">线材 支架 存储卡<span>&gt;</span></a></li>
+        <li class="xl"><a href="#">箱包 服饰 鞋 眼镜<span>&gt;</span></a></li>
+        <li class="xl"><a href="#">米兔 生活周边<span>&gt;</span></a></li>
+        <!--轮播图上隐藏的ul列表-->
+        <div id="ban1"></div>
+    </ul>
+</div>
+    <!--广告条下部分-->
+    <div id="banner-btm">
+        <p id="p">
+            <a href="#"><img src="../images/pic2.gif"><span>选购手机</span></a>
+            <a href="#"><img src="../images/pic3.gif"><span>企业团购</span></a>
+            <a href="#"><img src="../images/pic4.gif"><span>F码通道</span></a>
+            <a href="#"><img src="../images/pic5.gif"><span>米粉卡</span></a>
+            <a href="#"><img src="../images/pic6.gif"><span>以旧换新</span></a>
+            <a href="#"><img src="../images/pic7.gif"><span>选购手机</span></a>
+        </p>
+        <p>
+            <a href="#"><img src="https://i1.mifile.cn/a4/xmad_15035863419676_OXNRa.jpg"></a>
+            <a href="#"><img src="https://i1.mifile.cn/a4/xmad_15039336871705_RtBDb.jpg"></a>
+            <a href="#"><img src="https://i1.mifile.cn/a4/xmad_15036601080187_xGsZc.jpg"></a>
+        </p>
+    </div>
+
+<!--主体上部分-->
+<div id="main_top">
+    <h2>小米明星单品</h2>
+    <button id="btn">&lt;</button>
+    <button id="btn1">&gt;</button>
+    <div id="dc">
+        <ul>
+            <li><a href="#"><img src="https://i1.mifile.cn/a4/xmad_1489401341687_vUojl.png"></a>
+                <p><a href="#">红米Note4</a></p><p>4100毫安超长待机,多彩金属</p><p>999元起</p></li>
+            <li><a href="#"><img src="https://i1.mifile.cn/a4/xmad_14966625747867_qcTyh.png"></a>
+                <p><a href="#">红米4x</a></p><p>4100毫安超长待机,多彩金属</p><p>699元起</p></li>
+            <li><a href="#"><img src="https://i1.mifile.cn/a4/xmad_15030636132779_UImNJ.png"></a>
+                <p><a href="#">小米Note2</a></p><p>最高减500</p><p>2499元起</p></li>
+            <li><a href="#"><img src="https://i1.mifile.cn/a1/pms_1490077058.71391368!220x220.png"></a>
+                <p><a href="#">小米电视 43英寸</a></p><p>享小米分期12期免息</p><p>1999元起</p></li>
+            <li class="five"><a href="#"><img src="https://i1.mifile.cn/a4/725a37e3-78b7-4298-8098-c40097bf179d"></a>
+                <p><a href="#">小米笔记本</a></p><p>更轻更薄 像杂志一样携带</p><p>3599元起</p></li>
+
+            <!--隐藏的一部分-->
+            <li><a href="#"><img src="https://i1.mifile.cn/a4/xmad_1489401341687_vUojl.png"></a>
+                <p><a href="#">红米Note4</a></p><p>4100毫安超长待机,多彩金属</p><p>999元起</p></li>
+            <li><a href="#"><img src="https://i1.mifile.cn/a4/xmad_14966625747867_qcTyh.png"></a>
+                <p><a href="#">红米4x</a></p><p>4100毫安超长待机,多彩金属</p><p>699元起</p></li>
+            <li><a href="#"><img src="https://i1.mifile.cn/a4/xmad_15030636132779_UImNJ.png"></a>
+                <p><a href="#">小米Note2</a></p><p>最高减500</p><p>2499元起</p></li>
+            <li><a href="#"><img src="https://i1.mifile.cn/a1/pms_1490077058.71391368!220x220.png"></a>
+                <p><a href="#">小米电视 43英寸</a></p><p>享小米分期12期免息</p><p>1999元起</p></li>
+            <li class="five"><a href="#"><img src="https://i1.mifile.cn/a4/725a37e3-78b7-4298-8098-c40097bf179d"></a>
+                <p><a href="#">小米笔记本</a></p><p>更轻更薄 像杂志一样携带</p><p>3599元起</p></li>
+        </ul>
+    </div>
+</div>
+
+<div id="warp">
+    <!--主体-->
+    <div id="main">
+        <!--主体中部-->
+        <div id="main_center">
+            <div class="ww">
+                <h2>智能</h2>
+                <a href="#" class="ch">热门</a>
+                <a href="#" class="ch">耳机音箱</a>
+                <a href="#" class="ch">电源</a>
+                <a href="#" class="ch">酷玩</a>
+                <a href="#" class="ch">路由器</a>
+            </div>
+            <ul>
+                <li><a href="#"><img src="https://i1.mifile.cn/a4/xmad_15033634845604_MHJpV.jpg" class="pic"></a>
+                </li>
+                <li class="lis"><a href="#"><img class="cr" src="https://i1.mifile.cn/a1/T1PXhgBbdT1RXrhCrK!220x220.jpg"></a>
+                    <p><a href="#">九号平衡车</a></p>
+                    <p>年轻人的酷玩具，骑行遥控两种玩法</p>
+                    <p>1999元</p>
+                    <div class="cs">爱上小米，已经变成米粉了，从<br>智能产品买到生活家居，第...<br>
+                        <span>来自于894583201110的评价</span></div>
+                </li>
+
+                <li class="lis"><span class="sp">新品</span><a href="#">
+                    <img class="cr" src="https://i1.mifile.cn/a1/pms_1499419157.62788324!220x220.jpg"></a>
+                    <p><a href="#">70迈智能后视镜</a></p>
+                    <p>ADAS高级教辅，1980P行车记录</p>
+                    <p>1299元</p>
+                    <div class="cs">爱上小米，已经变成米粉了，从<br>智能产品买到生活家居，第...<br>
+                        <span>来自于894583201110的评价</span></div>
+                </li>
+
+                <li class="lis">
+                    <a href="#"><img class="cr" src="https://i1.mifile.cn/a1/pms_1487831386.1667404!220x220.jpg"></a>
+                    <p><a href="#">小米体脂称</a></p>
+                    <p>简约纤薄，隐藏式LED显示屏</p>
+                    <p>199元</p>
+                    <div class="cs">爱上小米，已经变成米粉了，从<br>智能产品买到生活家居，第...<br>
+                        <span>来自于894583201110的评价</span></div>
+                </li>
+
+                <li class="lis">
+                    <a href="#"><img class="cr" src="https://i1.mifile.cn/a1/pms_1478678718.61531371!220x220.jpg"></a>
+                    <p><a href="#">米家IH电饭煲 3L</a></p>
+                    <p>IH电磁环绕加热3000+煮米方案</p>
+                    <p>399元</p>
+                    <div class="cs">爱上小米，已经变成米粉了，从<br>智能产品买到生活家居，第...<br>
+                        <span>来自于894583201110的评价</span></div>
+                </li>
+            </ul>
+            <ul>
+                <li><a href="#"><img src="https://i1.mifile.cn/a4/xmad_15039068482674_HQjKk.jpg" class="pic"></a>
+                </li>
+                <li class="lis"><span class="sp1">享9折</span><a href="#">
+                    <img class="cr" src="https://i1.mifile.cn/a1/pms_1482392555.22071382!220x220.jpg"></a>
+                    <p><a href="#">米家车载空气净化器</a></p>
+                    <p>双风机循环气流，高效净化车内空气</p>
+                    <p>399元</p>
+                    <div class="cs">爱上小米，已经变成米粉了，从<br>智能产品买到生活家居，第...<br>
+                        <span>来自于894583201110的评价</span></div>
+                </li>
+
+                <li class="lis"><span class="sp">新品</span><a href="#">
+                    <img class="cr" src="https://i1.mifile.cn/a1/pms_1503043063.07693479!220x220.jpg"></a>
+                    <p><a href="#">米家小相机</a></p>
+                    <p>清晰捕捉美好瞬间</p>
+                    <p>699元</p>
+                    <div class="cs">爱上小米，已经变成米粉了，从<br>智能产品买到生活家居，第...<br>
+                        <span>来自于894583201110的评价</span></div>
+                </li>
+
+                <li class="lis">
+                    <span class="sp">新品</span><a href="#">
+                    <img class="cr" src="https://i1.mifile.cn/a1/pms_1500273073.06453889!220x220.jpg"></a>
+                    <p><a href="#">小米路由器HD (8TB)</a></p>
+                    <p>全新一代智能家庭中心</p>
+                    <p>3699元</p>
+                    <div class="cs">爱上小米，已经变成米粉了，从<br>智能产品买到生活家居，第...<br>
+                        <span>来自于894583201110的评价</span></div>
+                </li>
+
+                <li class="li">
+                    <p class="p1">小米VP眼镜<br><span>299元</span><a href="#">
+                    <img src="https://i1.mifile.cn/a1/pms_1477985364.89714934!220x220.jpg"></a></p>
+                    <p class="p1">浏览更多<br>热门<a href="#"><img src="../images/pic.GIF"></a></p>
+                </li>
+            </ul>
+        </div>
+        <!--主体下部-->
+        <div id="main_bottom">
+
+        </div>
+    </div>
+</div>
+<!--页脚-->
+<footer>
+    <p>这是页脚</p>
+</footer>
+</body>
+</html>

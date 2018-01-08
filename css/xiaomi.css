@@ -1,0 +1,598 @@
+@charset "utf-8";
+
+#head,nav,#banner,#main_top,#banner-btm,#main,footer{
+    width: 1227px;
+    margin: 0 auto;
+    font-size: 12px;
+}
+
+/*头部*/
+header{
+    width: 1350px;
+    height: 40px;
+    background-color: #332b33;
+    position: relative;
+}
+header ul li{
+    float: left;
+    line-height: 40px;
+    padding-right: 15px;
+    color: #fff;
+}
+header a{
+    color: #ccc;
+}
+header a:hover{
+    color: #fff;
+}
+header p a{
+    float: right;
+    line-height: 40px;
+    padding-right: 20px;
+}
+#head p a:first-of-type:hover{
+    color: orange;
+}
+
+/*隐藏的购物车下拉菜单*/
+#gw{
+    width: 300px;
+    height: 100px;
+    background-color: #fff;
+    position: absolute;
+    top: 40px;
+    right: 60px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 15px;
+    z-index: 2;
+    display: none;
+    box-shadow: 2px 0 2px #ccc, -2px 0 2px  #ccc, 2px 0 2px #ccc;
+}
+
+
+/*导航*/
+nav{
+    height: 100px;
+}
+nav h1 a{
+    height: 55px;
+    width: 55px;
+    display: block;
+    background: url(../images/logo.gif);
+    font-size: 0px;
+    margin-top: 22px;
+    float: left;
+}
+nav #qq{
+    float: left;
+    width: 590px;
+    height: 100px;
+    margin-left: 180px;
+    margin-right: 108px;
+    line-height: 100px;
+}
+
+/*表单下超链接的隐藏下拉菜单*/
+#dh{
+    width: 1350px;
+    height: 240px;
+    background-color: #fff;
+    position: absolute;
+    top: 140px;
+    left: 0;
+    display: none;
+    z-index: 4;
+    border-top: 1px solid #ccc;
+}
+
+#dh p:nth-of-type(2){
+    color: orangered;
+}
+
+nav #qq a{
+    padding-right: 10px;
+    font-size: 16px;
+}
+nav #qq a:hover{
+    color: red;
+}
+nav input{
+    width: 243px;
+    height: 50px;
+    border: solid 1px #ccd5cc;
+    margin-top: 22px;
+    padding-left: 90px;
+    float: left;
+}
+
+/*广告条下的背景图*/
+nav .bg{
+    height: 50px;
+    width: 50px;
+    border: solid 1px #ccd5cc;
+    border-left: none;
+    float: left;
+    margin-top: 22px;
+    padding: 15px;
+}
+nav .bg:hover{
+    background: orangered;
+}
+nav img{
+    display: block;
+}
+
+
+
+/*添加json数据*/
+#box{
+    height: 300px;
+    width: 150px;
+    float: left;
+    text-align: center;
+    line-height: 25px;
+    margin: 30px 10px 0 30px;
+
+}
+#box img{
+    height: 120px;
+    width: 110px;
+    padding-bottom: 20px;
+    margin: 0 20px;
+}
+
+/*表单下搜索框的隐藏下拉菜单*/
+#search{
+    width: 243px;
+    height: 300px;
+    background-color: #fff;
+    position: absolute;
+    right: 112px;
+    top: 112px;
+    display: none;
+    z-index: 3;
+    border: 1px solid orange;
+    border-top:none;
+}
+#search a{
+    display: block;
+    height: 25px;
+    width: 243px;
+    font-size: 14px;
+    padding: 6px 8px 0 10px;
+}
+#search a:hover{
+    background-color: rgba(204, 204, 204, 0.4);
+}
+#search a .a2{
+    float: right;
+    color: #ccc;
+}
+
+/*广告条*/
+#banner{
+    height: 460px;
+    /*width: 100%;*/
+    position: relative;
+}
+/*广告条按钮*/
+#bt{
+    height: 55px;
+    width: 992px;
+    position: absolute;
+    left: 235px;
+    top: 200px;
+    /*opacity: 0;*/
+}
+#bt span{
+    display: block;
+    width: 40px;
+    height: 55px;
+    cursor: pointer;
+    text-align: center;
+    line-height: 55px;
+    font-size: 40px;
+    color: #ccc;
+}
+#bt span:hover{
+    background-color: rgba(51, 43, 51, 0.55);
+}
+#bt span:first-child{
+    float: right;
+
+}
+
+/*广告条的指示小按钮*/
+#sp{
+    width: 120px;
+    height: 10px;
+    position: absolute;
+    right: 30px;
+    top: 430px;
+}
+#sp span{
+    display: block;
+    height: 10px;
+    width: 10px;
+    background-color: rgba(51, 43, 51, 0.55);
+    float: left;
+    border-radius: 50%;
+    margin-right: 10px;
+    cursor: pointer;
+}
+#sp .s{
+    background-color: pink;
+}
+
+/*广告条上的ul列表*/
+#banner ul{
+    width: 235px;
+    height: 460px;
+    background-color: rgba(51, 43, 51, 0.55);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#banner ul li{
+    font-size: 16px;
+    width: 235px;
+    height: 40px;
+    color: #fff;
+    line-height: 40px;
+    padding-left: 22px;
+}
+#banner li:first-of-type{
+    margin-top: 30px;
+}
+#banner li a{
+    color: #fff;
+    display: block;
+    wihth:235px;
+    height: 40px;
+}
+#banner li:hover{
+    background: orangered;
+}
+#banner li span{
+    float: right;
+    margin-right: 15px;
+}
+
+
+/*广告条上的右拉菜单*/
+#ban1{
+    height: 460px;
+    width: 600px;
+    background-color: #fff;
+    position: absolute;
+    left: 235px;
+    top: 0px;
+    display: none;
+}
+#box1{
+    display: block;
+    height: 70px;
+    width: 200px;
+    float: left;
+    margin: 10px;
+
+}
+#box1 img{
+    float: left;
+    margin-top: 20px;
+}
+#box1 span:first-of-type{
+    float: left;
+    padding-left: 10px;
+    line-height: 70px;
+}
+#box1 span:last-of-type{
+    float: right;
+    text-align: center;
+    color: orangered;
+    line-height: 30px;
+    margin-top: 20px;
+
+}
+
+/*广告条下部分*/
+#banner-btm{
+    height: 180px;
+    margin-top: 14px;
+}
+#banner-btm #p{
+    height: 180px;
+    width: 235px;
+    background-color: rgba(51, 43, 51, 0.72);
+    float: left;
+}
+#p a{
+    float: left;
+    margin: 20px 10px 10px 20px;
+    text-align: center;
+}
+#p a:hover{
+    color: #fff;
+}
+
+#banner-btm p:nth-child(2) img{
+    height: 180px;
+    width: 316px;
+    float: left;
+    margin-left:14px;
+}
+
+
+/*主体上部分*/
+#main_top{
+    height:320px;
+    width: 1227px;
+    margin-top: 30px;
+    position: relative;
+}
+#dc{
+    width: 1227px;
+    height: 260px;
+    position: relative;
+    overflow: hidden;
+}
+
+#main_top h2{
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    line-height: 50px;
+    color: #332b33;
+}
+#btn{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 50px;
+    top: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    color: #ccc;
+}
+#btn1{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-left:none;
+    color: #ccc;
+}
+#main_top ul{
+    width: 2454px;
+    height: 260px;
+    position: absolute;
+    left: 0;
+}
+
+#main_top ul li{
+    width: 233px;
+    height: 260px;
+    float: left;
+    background-color: rgba(204, 204, 204, 0.18);
+    border-top: 1px solid orangered;
+    margin-right:15px;
+    text-align: center;
+    line-height: 25px;
+
+}
+#main_top .five{
+    margin-right: 0px;
+}
+
+/*给主体上部的所有li设置相同的属性值*/
+#main_top li img{
+    height: 150px;
+    width: 130px;
+    margin: 20px 0 0 45px;
+}
+#main_top li p:first-of-type{
+    font-size: 16px;
+    color: #000;
+}
+#main_top li p:nth-of-type(2){
+    font-size: 12px;
+    color: #ccc;
+}
+#main_top li p:nth-of-type(3){
+    font-size: 12px;
+    color: orangered;
+}
+
+
+/*总主体*/
+#warp{
+    width: 100%;
+    background-color: rgba(204, 204, 204, 0.18);
+    margin-top: 30px;
+}
+/*主体*/
+#main{
+    height: 1000px;
+    padding-top: 10px;
+    position: relative;
+}
+
+/*给主体里面的所有li设置相同的属性值*/
+#main li img{
+    height: 150px;
+    width: 130px;
+    margin: 20px 0 0 45px;
+}
+#main li p:first-of-type{
+    font-size: 16px;
+    color: #000;
+}
+#main li p:nth-of-type(2){
+    font-size: 12px;
+    color: #ccc;
+}
+#main li p:nth-of-type(3){
+    font-size: 12px;
+    color: orangered;
+}
+
+
+
+
+/*主体中部*/
+#main_center{
+    height: 630px;
+    margin-top: 50px;
+
+}
+#main_center .ww{
+    height: 50px;
+}
+#main_center .ww h2{
+    float: left;
+    font-size: 25px;
+    line-height: 50px;
+    margin-right: 890px;
+    color: #332b33;
+}
+#main_center .ww a{
+    float: left;
+    margin-right: 15px;
+    line-height: 50px;
+    font-size: 16px;
+    font-weight: bold;
+}
+#main_center .ww a:first-of-type{
+    color: orangered;
+}
+#main_center .ww a:hover{
+    color: orangered;
+    text-decoration: underline;
+    text-decoration-color: orangered;
+}
+
+
+#main_center ul li{
+    width: 230px;
+    height: 260px;
+    float: left;
+    background-color: #fff;
+    margin: 0 15px 15px 0;
+    text-align: center;
+    line-height: 25px;
+    position: relative;
+    overflow: hidden;
+}
+
+/*定位介绍产品的小标签*/
+#main_center ul .sp{
+    display: block;
+    position: absolute;
+    left: 100px;
+    height: 20px;
+    width: 45px;
+    line-height: 20px;
+    background-color: rgba(39, 128, 64, 0.49);
+    font-size: 12px;
+    color: #fff;
+}
+
+/*定位介绍产品的小标签*/
+#main_center ul .sp1{
+    display: block;
+    position: absolute;
+    left: 100px;
+    height: 20px;
+    width: 45px;
+    line-height: 20px;
+    background-color: rgba(255, 0, 0, 0.66);
+    font-size: 12px;
+    color: #fff;
+}
+
+/*鼠标划过时显示评价*/
+#main_center ul .cs{
+    position: absolute;
+    bottom: -85px;
+    color: #fff;
+    width: 230px;
+    height: 85px;
+    padding-top: 10px;
+    background-color: rgba(255, 69, 0, 0.86);
+}
+
+/*鼠标划过添加阴影效果*/
+#main_center ul li:hover{
+    box-shadow: 4px 0 8px #ccc, -2px 0 6px #ccc;
+    transform: translate3d(0,-2px,0);   /*x, y, z*/
+}
+
+/*设置图片的尺寸*/
+#main_center li .pic{
+    width: 230px;
+    height: 260px;
+    margin: 0px;
+}
+
+/*设置图片的尺寸*/
+#main_center li img{
+    height: 150px;
+    width: 130px;
+    margin: 0 0 0 45px;
+}
+#main_center .li{
+    background-color: rgba(204, 204, 204, 0.18);
+}
+#main_center li>.p1{
+    height: 123px;
+    width: 230px;
+    background-color: #fff;
+    text-align: left;
+    padding: 30px 0 0 15px;
+    font-size: 26px;
+}
+#main_center .p1:first-of-type{
+    margin-bottom: 15px;
+}
+#main_center .p1:last-of-type{
+    font-size: 16px;
+}
+#main_center li>.p1 img{
+    height: 50px;
+    width: 60px;
+    background-color: #fff;
+    float: right;
+    margin-right: 25px;
+    margin-bottom: 50px;
+}
+#main_center li>.p1 span{
+    color: orangered;
+}
+
+
+#a{
+    display: block;
+    width: 230px;
+    height: 260px;
+}
+
+/*主体下部分*/
+#main_bottom{
+
+}
+
+
+    /*页脚*/
+footer{
+    height: 200px;
+    border: solid 1px #cc48ff;
+}
+
+footer p{
+    font-size: 16px;
+    color: orangered;
+}
